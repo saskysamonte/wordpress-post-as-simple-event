@@ -1,3 +1,4 @@
+<?php
 /*
  * Display WordPress Post as Event
  * @author: Sasky
