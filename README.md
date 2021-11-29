@@ -1,4 +1,4 @@
-# Make WordPress as Simple Event
+# Make WordPress Scheduled Post as Simple Event
 * Display Scheduled Post as Upcoming Event
 
 ## Instructions
